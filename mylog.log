@@ -1,0 +1,146 @@
+2021-04-16  INFO [main] (DijkstraKonzol.java:29) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-16  INFO [main] (DijkstraKonzol.java:30) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-16  INFO [main] (DijkstraKonzol.java:31) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-16  INFO [main] (DijkstraKonzol.java:32) - 
+2021-04-16  INFO [main] (DijkstraKonzol.java:95) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-16  INFO [main] (DijkstraKonzol.java:106) - Hány csomópontja van a gráfnak? Egész számot írj! 
+Csomópontok száma:
+2021-04-16  INFO [main] (DijkstraKonzol.java:80) - Hány szomszédja van 'A'-nak, amit még NEM ADTÁL MEG?
+2021-04-16  INFO [main] (DijkstraKonzol.java:84) - Kérem 'A' 1. NEM MEGADOTT szomszédját, és a két csomópont távolsását! <pl: B 2>
+2021-04-16  INFO [main] (DijkstraKonzol.java:84) - Kérem 'A' 2. NEM MEGADOTT szomszédját, és a két csomópont távolsását! <pl: B 2>
+2021-04-16  INFO [main] (DijkstraKonzol.java:80) - Hány szomszédja van 'B'-nak, amit még NEM ADTÁL MEG?
+2021-04-16  INFO [main] (DijkstraKonzol.java:84) - Kérem 'B' 1. NEM MEGADOTT szomszédját, és a két csomópont távolsását! <pl: B 2>
+2021-04-16  INFO [main] (DijkstraKonzol.java:80) - Hány szomszédja van 'C'-nak, amit még NEM ADTÁL MEG?
+2021-04-16  INFO [main] (DijkstraKonzol.java:40) - Ellenõrzöd az adatokat? I / N
+2021-04-16  INFO [main] (DijkstraKonzol.java:47) - Elmented a gráfot? I / N
+2021-04-16  INFO [main] (DijkstraKonzol.java:62) - Betölthetem az adatokat? I / N
+2021-04-16  INFO [main] (DijkstraKonzol.java:114) - Kérem a kiindulási csomópont BETÛJÉT! <pl: C>
+2021-04-16  INFO [main] (GrafJaro.java:61) - A(z) A csomópont távolsága A. csomóponttól: 0 egység. Megelõzõ csomópont: A
+2021-04-16  INFO [main] (GrafJaro.java:61) - A(z) B csomópont távolsága A. csomóponttól: 7 egység. Megelõzõ csomópont: A
+2021-04-16  INFO [main] (GrafJaro.java:61) - A(z) C csomópont távolsága A. csomóponttól: 2 egység. Megelõzõ csomópont: A
+2021-04-16  INFO [main] (DijkstraKonzol.java:29) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-16  INFO [main] (DijkstraKonzol.java:30) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-16  INFO [main] (DijkstraKonzol.java:31) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-16  INFO [main] (DijkstraKonzol.java:32) - 
+2021-04-16  INFO [main] (DijkstraKonzol.java:95) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-16  INFO [main] (DijkstraKonzol.java:106) - Hány csomópontja van a gráfnak? Egész számot írj! 
+Csomópontok száma:
+2021-04-16  INFO [main] (DijkstraKonzol.java:40) - Ellenõrzöd az adatokat? I / N
+2021-04-16  INFO [main] (DijkstraKonzol.java:47) - Elmented a gráfot? I / N
+2021-04-16  INFO [main] (DijkstraKonzol.java:62) - Betölthetem az adatokat? I / N
+2021-04-16  INFO [main] (DijkstraKonzol.java:95) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-16  INFO [main] (DijkstraKonzol.java:100) - Add meg a betöltendõ gráf elérési útját! <pl: c:/konyvtar/graf.dat>
+2021-04-16  INFO [main] (DijkstraKonzol.java:29) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-16  INFO [main] (DijkstraKonzol.java:30) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-16  INFO [main] (DijkstraKonzol.java:31) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-16  INFO [main] (DijkstraKonzol.java:32) - 
+2021-04-16  INFO [main] (DijkstraKonzol.java:95) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-16  INFO [main] (DijkstraKonzol.java:29) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-16  INFO [main] (DijkstraKonzol.java:30) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-16  INFO [main] (DijkstraKonzol.java:31) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-16  INFO [main] (DijkstraKonzol.java:32) - 
+2021-04-16  INFO [main] (DijkstraKonzol.java:95) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-16  INFO [main] (DijkstraKonzol.java:30) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-16  INFO [main] (DijkstraKonzol.java:31) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-16  INFO [main] (DijkstraKonzol.java:32) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-16  INFO [main] (DijkstraKonzol.java:33) - 
+2021-04-16  INFO [main] (DijkstraKonzol.java:96) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-16  INFO [main] (DijkstraKonzol.java:30) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-16  INFO [main] (DijkstraKonzol.java:31) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-16  INFO [main] (DijkstraKonzol.java:32) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-16  INFO [main] (DijkstraKonzol.java:33) - 
+2021-04-16  INFO [main] (DijkstraKonzol.java:96) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-16  INFO [main] (DijkstraKonzol.java:30) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-16  INFO [main] (DijkstraKonzol.java:31) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-16  INFO [main] (DijkstraKonzol.java:32) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-16  INFO [main] (DijkstraKonzol.java:33) - 
+2021-04-16  INFO [main] (DijkstraKonzol.java:96) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:34) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:35) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:36) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:37) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:100) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:35) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:36) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:37) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:38) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:101) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:38) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:39) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:40) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:41) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:104) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:39) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:40) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:41) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:42) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:105) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:34) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:35) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:36) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:37) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:100) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:111) - Hány csomópontja van a gráfnak? Egész számot írj! 
+Csomópontok száma:
+2021-04-18  INFO [main] (DijkstraKonzol.java:85) - Hány szomszédja van 'A'-nak, amit még NEM ADTÁL MEG?
+2021-04-18  INFO [main] (DijkstraKonzol.java:89) - Kérem 'A' 1. NEM MEGADOTT szomszédját, és a két csomópont távolsását! <pl: B 2>
+2021-04-18  INFO [main] (DijkstraKonzol.java:85) - Hány szomszédja van 'B'-nak, amit még NEM ADTÁL MEG?
+2021-04-18  INFO [main] (DijkstraKonzol.java:45) - Ellenõrzöd az adatokat? I / N
+2021-04-18  INFO [main] (GrafModel.java:74) - A : 0
+2021-04-18  INFO [main] (GrafModel.java:74) - B : 6
+2021-04-18  INFO [main] (GrafModel.java:76) - ---------
+2021-04-18  INFO [main] (GrafModel.java:74) - A : 6
+2021-04-18  INFO [main] (GrafModel.java:74) - B : 0
+2021-04-18  INFO [main] (GrafModel.java:76) - ---------
+2021-04-18  INFO [main] (DijkstraKonzol.java:52) - Elmented a gráfot? I / N
+2021-04-18  INFO [main] (DijkstraKonzol.java:67) - Betölthetem az adatokat? I / N
+2021-04-18  INFO [main] (DijkstraKonzol.java:119) - Kérem a kiindulási csomópont BETÛJÉT! <pl: C>
+2021-04-18  INFO [main] (GrafJaro.java:61) - A(z) A csomópont távolsága A. csomóponttól: 0 egység. Megelõzõ csomópont: A
+2021-04-18  INFO [main] (GrafJaro.java:61) - A(z) B csomópont távolsága A. csomóponttól: 6 egység. Megelõzõ csomópont: A
+2021-04-18  INFO [main] (DijkstraKonzol.java:34) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:35) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:36) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:37) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:100) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:111) - Hány csomópontja van a gráfnak? Egész számot írj! 
+Csomópontok száma:
+2021-04-18  INFO [main] (DijkstraKonzol.java:85) - Hány szomszédja van 'A'-nak, amit még NEM ADTÁL MEG?
+2021-04-18  INFO [main] (DijkstraKonzol.java:45) - Ellenõrzöd az adatokat? I / N
+2021-04-18  INFO [main] (DijkstraKonzol.java:52) - Elmented a gráfot? I / N
+2021-04-18  INFO [main] (DijkstraKonzol.java:67) - Betölthetem az adatokat? I / N
+2021-04-18  INFO [main] (DijkstraKonzol.java:119) - Kérem a kiindulási csomópont BETÛJÉT! <pl: C>
+2021-04-18  INFO [main] (GrafJaro.java:61) - A(z) A csomópont távolsága A. csomóponttól: 0 egység. Megelõzõ csomópont: A
+2021-04-18  INFO [main] (DijkstraKonzol.java:34) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:35) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:36) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:37) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:100) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:105) - Add meg a betöltendõ gráf elérési útját! <pl: c:/konyvtar/graf.dat>
+2021-04-18  INFO [main] (GrafLoader.java:32) - A betöltés sikerült!
+2021-04-18  INFO [main] (DijkstraKonzol.java:45) - Ellenõrzöd az adatokat? I / N
+2021-04-18  INFO [main] (GrafModel.java:74) - A : 0
+2021-04-18  INFO [main] (GrafModel.java:74) - B : 4
+2021-04-18  INFO [main] (GrafModel.java:76) - ---------
+2021-04-18  INFO [main] (GrafModel.java:74) - A : 4
+2021-04-18  INFO [main] (GrafModel.java:74) - B : 0
+2021-04-18  INFO [main] (GrafModel.java:76) - ---------
+2021-04-18  INFO [main] (DijkstraKonzol.java:67) - Betölthetem az adatokat? I / N
+2021-04-18  INFO [main] (DijkstraKonzol.java:119) - Kérem a kiindulási csomópont BETÛJÉT! <pl: C>
+2021-04-18  INFO [main] (GrafJaro.java:61) - A(z) A csomópont távolsága A. csomóponttól: 0 egység. Megelõzõ csomópont: A
+2021-04-18  INFO [main] (GrafJaro.java:61) - A(z) B csomópont távolsága A. csomóponttól: 4 egység. Megelõzõ csomópont: A
+2021-04-18  INFO [main] (DijkstraKonzol.java:34) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:35) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:36) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:37) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:100) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:105) - Add meg a betöltendõ gráf elérési útját! <pl: c:/konyvtar/graf.dat>
+2021-04-18  INFO [main] (GrafLoader.java:34) - File hiba!java.io.FileNotFoundException: c:\prog\ize.dat (A rendszer nem találja a megadott fájlt)
+2021-04-18  INFO [main] (DijkstraKonzol.java:45) - Ellenõrzöd az adatokat? I / N
+2021-04-18  INFO [main] (DijkstraKonzol.java:27) - A program a gráf csomópontjaira az angol ABC nagybetûivel hivatkozik, <A, B, C, ...>
+2021-04-18  INFO [main] (DijkstraKonzol.java:28) - A csomópontok közötti távolságot / súlyozást EGÉSZ számokban méri!
+2021-04-18  INFO [main] (DijkstraKonzol.java:29) - A csomópontok közötti kapcsolatot manuálisan kell megadni!
+2021-04-18  INFO [main] (DijkstraKonzol.java:30) - 
+2021-04-18  INFO [main] (DijkstraKonzol.java:93) - Új gráfot írsz, vagy egy meglévõt töltesz be? I - új gráf / N - betöltés
+2021-04-18  INFO [main] (DijkstraKonzol.java:98) - Add meg a betöltendõ gráf elérési útját! <pl: c:/konyvtar/graf.dat>
+2021-04-18  INFO [main] (GrafLoader.java:28) - File hiba! java.io.FileNotFoundException: ize.dat (A rendszer nem találja a megadott fájlt)
+2021-04-18  INFO [main] (GrafLoader.java:29) - A program leáll.
